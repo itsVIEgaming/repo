@@ -6,8 +6,8 @@ Depends: firmware (>12.4), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.itsviegaming.pixy_1.0.3.deb
 Size: 12704
-MD5sum: BBBA22DA0BD06AF674FDE4BA9244F5EE
+MD5sum: bbba22da0bd06af674fde4ba9244f5ee
 Description: iOS 13+ Features multiple configurable options for the Photos app.
 Name: Pixy
 Author: VIE Gaming
-Depiction: https://itsviegaming.github.io/repo/depictions/?p=com.itsviegaming.pixy
+Depiction: https://github.com/itsviegaming/repo/tree/master/depictions/com.itsviegaming.pixy
