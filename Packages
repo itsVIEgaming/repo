@@ -1,12 +1,12 @@
 Package: com.itsviegaming.pixy
-Version: 1.0.3-9+debug
+Version: <package>mobilesubstrate</package>
 Section: Tweaks
 Maintainer: VIE Gaming <itsviegaming@gmail.com>
-Depends: firmware (>12.4), mobilesubstrate
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debs/com.itsviegaming.pixy_1.0.3.deb
+Filename: ./debs/com.itsviegaming.pixy_1.0.4
 Size: 12704
-MD5sum: bbba22da0bd06af674fde4ba9244f5ee
+MD5sum: 45818b302933bbdd94c93ff1b6b76657
 Description: iOS 13+ Features multiple configurable options for the Photos app.
 Name: Pixy
 Author: VIE Gaming

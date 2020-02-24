@@ -1,6 +1,12 @@
 <changelog>
 	<changes>
-		<version>1.0.3-9+debug</version>
-		<change>Initial release</change>
-	</changes>
+		<version>1.0.4-13+debug</version>
+    <change>Fixed spelling erros</change>
+    <change>Minor bug fixes</change>
+  </changes>
+  <changes>
+    <version>1.0.3-9+debug</version>
+    <change>Initial Release</change>
+  </changes>
 </changelog>
+
