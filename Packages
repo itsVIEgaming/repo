@@ -1,13 +1,13 @@
 Package: com.itsviegaming.pixy
 Version: 1.0.3
-Architecture: iphoneos-arm
+Section: Tweaks
 Maintainer: VIE Gaming <itsviegaming@gmail.com>
-Filename: /com.itsviegaming.pixy_1.0.3.deb
+Depends: firmware (>12.4), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.itsviegaming.pixy_1.0.3.deb
 Size: 12704
 MD5sum: BBBA22DA0BD06AF674FDE4BA9244F5EE
-SHA1: B9C7E47BF0BDAF3AE1714A8099083AA4A3513BA7
-SHA256: B20F710D2D55D1A83EB60A9BE72677A7DA5B56EF79055485E01471FF8A64F27E
-Section: Tweaks
 Description: iOS 13+ Features multiple configurable options for the Photos app.
-Author: VIE Gaming (itsviegaming@gmail.com)
 Name: Pixy
+Author: VIE Gaming<itsviegaming@gmail.com>
+Depiction: https://itsviegaming.github.io/repo/depictions/?p=com.itsviegaming.pixy
