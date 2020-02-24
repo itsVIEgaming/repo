@@ -4,20 +4,19 @@
 	<version>1.0.3-9+debug</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3.1</maxiOS>
+			<miniOS>13.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
 	<descriptionlist>
 		<description>iOS 13+ Features multiple configurable options for the Photos app.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<version>1.0.3</version
+		<version>1.0.3-9+debug</version
 		<change>Initial release</change>
 	</changelog>
 	<links></links>
