@@ -1,5 +1,5 @@
 Package: com.itsviegaming.pixy
-Version: 1.0.3
+Version: 1.0.3-9+debug
 Section: Tweaks
 Maintainer: VIE Gaming <itsviegaming@gmail.com>
 Depends: firmware (>12.4), mobilesubstrate
