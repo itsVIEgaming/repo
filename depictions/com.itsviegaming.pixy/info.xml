@@ -25,4 +25,9 @@
 			<image>pixy.jpg</image>
 		</screenshot>				
 	</screenshots>
+  <changelog>
+    <change>1.0.4-13+debug</change>
+    <change>Fixed spelling erros</change>
+    <change>Minor bug fixes</change>
+  </changelog>
 </package>
