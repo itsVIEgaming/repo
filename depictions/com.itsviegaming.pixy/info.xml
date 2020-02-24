@@ -9,7 +9,6 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-    <package>preferenceloader</package>
 	</dependencies>
 	<shortDescription>Pixy for Photos</shortDescription>
 	<descriptionlist>
